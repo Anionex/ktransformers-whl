@@ -1,5 +1,5 @@
 ## 使用方法
-(cuda12.4 torch2.4.0 avx2)
+(cuda12.4 torch2.4.0 python3.11)
 ```
 conda create -n kt python=3.11 -y
 conda activate kt
