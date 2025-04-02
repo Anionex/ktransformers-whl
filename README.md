@@ -21,6 +21,7 @@ pip install ktransformers-0.2.4+cu124torch24fancy-cp311-cp311-linux_x86_64.whl
 ```
 
 ## 构建过程
+环境：autodl RTX 4090(24GB) * 1 16 vCPU Intel(R) Xeon(R) Gold 6430
 ```bash
 conda create -n kt python=3.11 -y
 conda activate kt
