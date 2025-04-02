@@ -1,4 +1,6 @@
+## 实测目前还有问题，正在修复)
 ## 使用方法（如果有用欢迎star）
+
 (cuda12.4 torch2.4.0 python3.11)
 ```
 conda create -n kt python=3.11 -y
